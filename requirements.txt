@@ -1,0 +1,21 @@
+# Python environment
+# Python 3.8
+
+numpy==1.24.3
+scikit-learn==1.3.2
+matplotlib==3.7.5
+statsmodels==0.14.1
+openpyxl==3.1.5
+seaborn==0.13.2
+
+# R environment (documentation only; pip does not install R packages)
+# R 4.6.0
+# robustHD==0.8.4
+# glmnet==5.0
+# Rcpp==1.1.1.1.1
+# RcppEigen==0.3.4.0.2
+# MASS==7.3.65
+# Matrix==1.7.5
+# expm==1.0.0
+# ContaminatedMixt==1.3.8
+# sn==2.1.3
